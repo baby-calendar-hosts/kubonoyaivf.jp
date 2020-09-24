@@ -4,14 +4,14 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "338f7d048c75a64d6b5355999e1ce75e",
+    "content-hash": "f5408cf85e4ac81be1825d5722a4bd29",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
-            "version": "5.9.0",
+            "version": "5.9.1",
             "dist": {
                 "type": "zip",
-                "url": "https://connect.advancedcustomfields.com/index.php?a=download&p=pro&k={%ACF_KEY}&t=5.9.0"
+                "url": "https://connect.advancedcustomfields.com/index.php?a=download&p=pro&k={%ACF_KEY}&t=5.9.1"
             },
             "require": {
                 "ffraenz/private-composer-installer": "^2.0"
@@ -285,20 +285,20 @@
         },
         {
             "name": "koodimonni-plugin-language/custom-post-type-ui-ja",
-            "version": "1.8.0",
+            "version": "1.8.1",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/custom-post-type-ui/1.8.0/ja.zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/custom-post-type-ui/1.8.1/ja.zip",
                 "reference": "master"
             },
             "type": "wordpress-language"
         },
         {
             "name": "koodimonni-plugin-language/duplicate-post-ja",
-            "version": "3.2.5",
+            "version": "3.2.6",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/duplicate-post/3.2.5/ja.zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/duplicate-post/3.2.6/ja.zip",
                 "reference": "master"
             },
             "type": "wordpress-language"
